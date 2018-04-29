@@ -29,5 +29,5 @@ link: [crypto-js](https://www.npmjs.com/package/crypto-js)
 ![hash-mismatch](https://user-images.githubusercontent.com/24712232/39403461-6f5fafde-4b9a-11e8-8b24-c18d9ff7d050.png)
 
 
-Thankyou!
-Any suggestions/feedback kindly report an issue.
+**Thankyou!
+Any suggestions/feedback Kindly report an issue.**
