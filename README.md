@@ -26,5 +26,8 @@ link: [crypto-js](https://www.npmjs.com/package/crypto-js)
 * Every block is associated with some hash value & previous hash value (Hash value of previous block), so in case any amount/parameter changes after creating a block, the chain is considered to be invalid.
 * So to validate chain after its creation, then all hash needs to be regenerated.
 
+![hash-mismatch](https://user-images.githubusercontent.com/24712232/39403461-6f5fafde-4b9a-11e8-8b24-c18d9ff7d050.png)
+
+
 Thankyou!
 Any suggestions/feedback kindly report an issue.
